@@ -1,1 +1,1 @@
-# WebProjectPolygon
+# Polygon
